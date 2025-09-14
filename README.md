@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarkTH191
-- 👀 I’m interested: in Time Machine
-- 🌱 I’m currently learning: python
-- 💞️ I’m looking to collaborate on: people smart than einstein
+- 👀 I’m interested: in Biology,Universe,Computer,AI
+- 🌱 I’m currently learning: Python
 - 📫 How to reach me: impossible
 
 <!---
