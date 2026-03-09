@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkTH191
-- 👀 I’m interested: in Biology,Universe,Computer,AI
+- 👀 I’m interested: in AI Engineering
 - 🌱 I’m currently learning: Python
 - 📫 How to reach me: impossible
 
