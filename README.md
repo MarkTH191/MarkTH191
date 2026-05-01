@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkTH191
 - 👀 I’m interested: in AI Engineering
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Ai Engineer
 - 📫 How to reach me: impossible
 
 <!---
